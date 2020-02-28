@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">WhatsApp</string>
+    <string name="create_account">Create New Account</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="login_account">Login</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="send_msg">Type a mes...</string>
+    <string name="profile">Profile</string>
+    <string name="search">Search...</string>
+    <string name="forget_password">Forget Your Password?</string>
+    <string name="reset">Reset</string>
+    <string name="password_reset">By clicking RESET, you will receive an email to reset your password</string>
+    <string name="last_seen">Last Seen</string>
+    <string name="send">Send</string>
+    <string name="hello">Hello</string>
+
+
+</resources>
