@@ -92,7 +92,8 @@ public class ProfileFragment extends Fragment {
                     profile_image.setImageResource(R.drawable.profile);
                 } else {
 
-                    Glide.with(Objects.requireNonNull(getContext())).load(user.getImageURL()).into(profile_image);
+                    assert getActivity()!=null;
+                    Glide.with(getActivity()).load(user.getImageURL()).into(profile_image);
                 }
 
             }
