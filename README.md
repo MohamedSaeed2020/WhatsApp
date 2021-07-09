@@ -16,7 +16,15 @@ With my whatsApp you can:
 * You can reset your password using your email
 * Contacts list view with fulltext search for fullname field
 
+# Technologies used
+
+* REST API using Volley
+* Picasso for the Image Network
+* FCM
+* Push notification
+* Real time database
+
 ## The APK File link
-https://drive.google.com/open?id=1-kca7DFRm6imvpkNpWPPJkaR1McHYz-w
+https://dl.orangedox.com/B0uYEeAex9BcWgJNqd
 
 
